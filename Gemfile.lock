@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    benchmark-ips (2.6.1)
     byebug (9.0.5)
     mini_portile2 (2.1.0)
     nokogiri (1.6.8)
@@ -12,6 +13,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  benchmark-ips
   byebug
   nokogiri
 
